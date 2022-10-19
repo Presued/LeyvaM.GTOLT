@@ -1,0 +1,15 @@
+/Users/manuel/Documents/LeyvaM.GTOLT/bin/Debug/net6.0/LeyvaM.GTOLT
+/Users/manuel/Documents/LeyvaM.GTOLT/bin/Debug/net6.0/LeyvaM.GTOLT.deps.json
+/Users/manuel/Documents/LeyvaM.GTOLT/bin/Debug/net6.0/LeyvaM.GTOLT.runtimeconfig.json
+/Users/manuel/Documents/LeyvaM.GTOLT/bin/Debug/net6.0/LeyvaM.GTOLT.dll
+/Users/manuel/Documents/LeyvaM.GTOLT/bin/Debug/net6.0/LeyvaM.GTOLT.pdb
+/Users/manuel/Documents/LeyvaM.GTOLT/obj/Debug/net6.0/LeyvaM.GTOLT.csproj.AssemblyReference.cache
+/Users/manuel/Documents/LeyvaM.GTOLT/obj/Debug/net6.0/LeyvaM.GTOLT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/LeyvaM.GTOLT/obj/Debug/net6.0/LeyvaM.GTOLT.AssemblyInfoInputs.cache
+/Users/manuel/Documents/LeyvaM.GTOLT/obj/Debug/net6.0/LeyvaM.GTOLT.AssemblyInfo.cs
+/Users/manuel/Documents/LeyvaM.GTOLT/obj/Debug/net6.0/LeyvaM.GTOLT.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/LeyvaM.GTOLT/obj/Debug/net6.0/LeyvaM.GTOLT.dll
+/Users/manuel/Documents/LeyvaM.GTOLT/obj/Debug/net6.0/refint/LeyvaM.GTOLT.dll
+/Users/manuel/Documents/LeyvaM.GTOLT/obj/Debug/net6.0/LeyvaM.GTOLT.pdb
+/Users/manuel/Documents/LeyvaM.GTOLT/obj/Debug/net6.0/LeyvaM.GTOLT.genruntimeconfig.cache
+/Users/manuel/Documents/LeyvaM.GTOLT/obj/Debug/net6.0/ref/LeyvaM.GTOLT.dll
