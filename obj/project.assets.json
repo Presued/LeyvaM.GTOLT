@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/manuel/.nuget/packages/": {}
+    "C:\\Users\\rsgoo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/manuel/Documents/LeyvaM.GTOLT/LeyvaM.GTOLT.csproj",
+      "projectUniqueName": "C:\\Users\\rsgoo\\LeyvaM.GTOLT\\LeyvaM.GTOLT.csproj",
       "projectName": "LeyvaM.GTOLT",
-      "projectPath": "/Users/manuel/Documents/LeyvaM.GTOLT/LeyvaM.GTOLT.csproj",
-      "packagesPath": "/Users/manuel/.nuget/packages/",
-      "outputPath": "/Users/manuel/Documents/LeyvaM.GTOLT/obj/",
+      "projectPath": "C:\\Users\\rsgoo\\LeyvaM.GTOLT\\LeyvaM.GTOLT.csproj",
+      "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rsgoo\\LeyvaM.GTOLT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/manuel/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
